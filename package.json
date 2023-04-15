@@ -12,7 +12,10 @@
     "fix": "yarn format && yarn lint"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.14",
     "path": "^0.12.7",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1",
     "vue": "^3.2.45"
   },
   "devDependencies": {

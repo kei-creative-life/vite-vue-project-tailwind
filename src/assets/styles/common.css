@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   box-sizing: border-box;
   font-family: Roboto, 'Hiragino Sans', 'Noto Sans CJK JP', 'Original Yu Gothic', 'Yu Gothic', sans-serif;
